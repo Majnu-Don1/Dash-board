@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Minimal UI ([Free version](https://free.minimals.cc/))
+## Dash-board-UI ([Free version](https://free.minimals.cc/))
 
 ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
